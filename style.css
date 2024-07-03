@@ -1,0 +1,24 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.carousel-item img {
+    object-fit: contain;
+    height: 400px;
+}
+
+#question-container {
+    min-height: 200px;
+}
+
+.toast-header {
+    background-color: rgb(24, 137, 243);
+    color: white;
+}
+
